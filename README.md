@@ -4,18 +4,7 @@ Sou desenvolvedor de software com foco em soluções **Full Stack**, **sistemas 
 
 <h3 align="left">Tecnologias e ferramentas</h3>
 <p align="left">
-<a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/></a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/></a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="40" height="40"/></a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="40" height="40"/></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/></a>
-<a href="https://www.debian.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="40" height="40"/></a>
-<a href="https://www.arduino.cc" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino / embarcado" width="40" height="40"/></a>
-<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/></a>
-<a href="https://github.com/Marco-Antonio-Fernandes" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/></a>
-<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/></a>
-<a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/></a>
+<a href="https://skillicons.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react,nodejs,php,dart,flutter,linux,debian,arduino,git,github,vscode,mysql&perline=12" alt="React, Node.js, PHP, Dart, Flutter, Linux, Debian, Arduino, Git, GitHub, VS Code, MySQL" /></a>
 </p>
 
 ### Sobre mim
@@ -48,12 +37,12 @@ Sistema de gerenciamento de horas prestadas, desenvolvido para otimização de c
 
 #### Estatísticas e Tecnologias
 
+> O serviço **público** `github-readme-stats.vercel.app` só considera repositórios **públicos** — mesmo com `count_private=true`, isso só funciona se a instância tiver um **token seu**. Para refletir todos os seus commits (~177, incluindo privados): (1) em [Contribution settings](https://github.com/settings/profile) → *Include private contributions on my profile*; (2) faça [deploy da sua cópia](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own) no Vercel; (3) crie um [Personal Access Token](https://github.com/settings/tokens) com escopo **`repo`**; (4) no Vercel, variável de ambiente **`PAT_1`** = esse token; (5) nos `<img>` abaixo, troque `https://github-readme-stats.vercel.app` pela URL do **seu** deploy (`https://nome-do-app.vercel.app`).
+
 <div align="left">
 
-  <!-- Gráfico de Commits e Atividade (incluindo repositórios privados, se aplicável à sua conta) -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marco-Antonio-Fernandes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-  <!-- Gráfico de linguagens mais usadas -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marco-Antonio-Fernandes&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
