@@ -1,4 +1,4 @@
-## Olá, eu sou o Marco Antônio 👋
+**## Olá, eu sou o Marco Antônio 👋
 
 Sou desenvolvedor de software com foco em soluções **Full Stack**, **sistemas embarcados** e **infraestrutura Linux**. Especialista em criar aplicações robustas integrando tecnologias modernas de Web, Mobile e IoT.
 
@@ -47,3 +47,4 @@ Sistema de gerenciamento de horas prestadas, desenvolvido para otimização de c
 
 <!-- Estatísticas WakaTime — exige conta WakaTime conectada ao GitHub Stats -->
 <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Marco-Antonio-Fernandes&layout=compact&theme=tokyonight&display_name=true&langs_count=7" />
+**
