@@ -37,8 +37,6 @@ Sistema de gerenciamento de horas prestadas, desenvolvido para otimização de c
 
 #### Estatísticas e Tecnologias
 
-> O serviço **público** `github-readme-stats.vercel.app` só considera repositórios **públicos** — mesmo com `count_private=true`, isso só funciona se a instância tiver um **token seu**. Para refletir todos os seus commits (~177, incluindo privados): (1) em [Contribution settings](https://github.com/settings/profile) → *Include private contributions on my profile*; (2) faça [deploy da sua cópia](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own) no Vercel; (3) crie um [Personal Access Token](https://github.com/settings/tokens) com escopo **`repo`**; (4) no Vercel, variável de ambiente **`PAT_1`** = esse token; (5) nos `<img>` abaixo, troque `https://github-readme-stats.vercel.app` pela URL do **seu** deploy (`https://nome-do-app.vercel.app`).
-
 <div align="left">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marco-Antonio-Fernandes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
