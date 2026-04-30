@@ -21,30 +21,4 @@ Sou desenvolvedor de software com foco em soluções **Full Stack**, **sistemas 
 
 📡 Desenvolvimento de firmware e integração para IoT (ESP32).
 
-### Projetos em Destaque
 
-**Valt-**
-
-Aplicativo para leitura de HQs e documentos PDF com funcionalidade de conversão para audiobook. Desenvolvido em Dart.
-
-**Projeto Garrafa Inteligente**
-
-Sistema de monitoramento de temperatura que integra o desenvolvimento do firmware no ESP32 com interface mobile.
-
-**Rotatix**
-
-Sistema de gerenciamento de horas prestadas, desenvolvido para otimização de controle de produtividade.
-
-#### Estatísticas e Tecnologias
-
-<div align="left">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marco-Antonio-Fernandes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marco-Antonio-Fernandes&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<!-- Estatísticas WakaTime — exige conta WakaTime conectada ao GitHub Stats -->
-<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Marco-Antonio-Fernandes&layout=compact&theme=tokyonight&display_name=true&langs_count=7" />
-**
